@@ -1,0 +1,12 @@
+<!--index.wxml-->
+
+
+<view class='ev'>
+  <!-- <camera device-position='back' flash='off' binderror='error' style='width:100%;height:300px'></camera> -->
+  <button type='primary' bindtap='hum'>人脸特征</button>
+</view>
+<view class='ev'>
+  <!-- <camera device-position='back' flash='off' binderror='error' style='width:100%;height:300px'></camera> -->
+  <button type='primary' bindtap='env'> 周围环境 </button>
+</view>
+

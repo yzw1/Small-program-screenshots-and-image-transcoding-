@@ -1,0 +1,14 @@
+<view class='ev'>
+  <camera id='photo' device-position='back' flash='off' binderror='error' style='width:100%;height:300px'></camera>
+  <button type='primary' bindtap='takePhoto'>人脸特征</button>
+  <view>{{sex}}-{{age}}-{{beauty}}-{{express}}-{{glass}}</view>
+   <canvas canvas-id='photos' hidden='hidden'  class='sh'></canvas>
+  
+  <!-- <button type='primary' bindtap='up'>上传</button>
+ 
+  <!-- <image src='{{src}}'></image> -->
+  <button type='primary' bindtap='hums'>返回</button>
+  <button type='primary' bindtap='set'>33333333333333333333</button> -->
+  
+  
+</view>

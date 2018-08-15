@@ -1,0 +1,4 @@
+/**index.wxss**/
+.ev{
+  background-color: red,
+}
