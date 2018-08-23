@@ -2,8 +2,7 @@
   "pages":[
     "pages/index/index",
     "pages/logs/logs",
-    "pages/hum/hum",
-    "pages/env/env"
+    "pages/hum/hum"
   ],
   "window":{
     "backgroundTextStyle":"light",
